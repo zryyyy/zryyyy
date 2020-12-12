@@ -1,0 +1,17 @@
+# 图标&配色: https://simpleicons.org
+# 作者仓库: https://github.com/gleich/gleich
+- name: Hexo
+  logo: hexo
+  url: https://hexo.io/
+  color: '#0E83CD'
+  projects:
+    - url: https://github.com/zryyyy/hexo
+    - url: https://github.com/zryyyy/hexo-theme-volantis
+
+- name: JS/TS
+  logo: typescript
+  url: https://www.typescriptlang.org/
+  color: '#3878C6'
+  projects:
+    - url: https://github.com/zryyyy/hexo-test
+    - url: https://github.com/zryyyy/zryyyy.github.io
