@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🪐 QQ: zhangry / Wechat: zryyyyyyyyyyy
 - 📬 zryyyy@qq.com / zhangruiyang66@gmail.com
 
-[![Zry's GitHub stats](https://github-readme-stats.vercel.app/api?username=zryyyy&show_icons=true)](https://github.com/zryyyy)
+[![Zry's GitHub stats](https://zryyyy-readme-stats.vercel.app/api?username=zryyyy&show_icons=true)](https://github.com/zryyyy)
