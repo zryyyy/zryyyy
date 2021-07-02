@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ✍️ [Blogger](https://zryyyy.github.io)
 - 🧗 Soccer / Golf / Swimming / Cycling
 - 🪐 [QQ](https://qm.qq.com/cgi-bin/qm/qr?k=lOpv8UwUECEU81Z7YzBde8-a4SSaKFTS&noverify=0): zhangry / [WeChat](https://u.wechat.com/MN5tFxNsKZvWhTB-i4_JacQ): zryyyyyyyyyyy
-- 🌌 [Facebook](htttps://www.facebook.com): Zhang Ry / [Twitter](https://twitter.com/zryyyyyyyyy): zry 
+- 🌌 [Facebook](https://www.facebook.com/zryyyyy): Zhang Ry / [Twitter](https://twitter.com/zryyyyyyyyy): zry 
 - 🌠 [Telegram](https://t.me/zryyyyy): zryyyyyy / [Instagram](https://www.instagram.com/zzzzzzzzzzzzry/): zzzzzzzzzzzzry
 - 📬 zryyyy@qq.com / zzzzry@outlook.com
 
