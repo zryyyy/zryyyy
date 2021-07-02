@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 - 🌏 Zhoushan,Zhejiang,China
 - ✍️ [Blogger](https://zryyyy.github.io)
 - 🧗 Soccer / Golf / Swimming / Cycling
-- 🪐 QQ: zhangry / Wechat: zryyyyyyyyyyy
+- 🪐 [QQ](https://qm.qq.com/cgi-bin/qm/qr?k=lOpv8UwUECEU81Z7YzBde8-a4SSaKFTS&noverify=0): zhangry / [WeChat](https://u.wechat.com/MN5tFxNsKZvWhTB-i4_JacQ): zryyyyyyyyyyy
+- 🌌 [Facebook](htttps://www.facebook.com): Zhang Ry / [Twitter](https://twitter.com/zryyyyyyyyy): zry 
+- 🌠 [Telegram](https://t.me/zryyyyy): zryyyyyy / [Instagram](https://www.instagram.com/zzzzzzzzzzzzry/): zzzzzzzzzzzzry
+- 📬 zryyyy@qq.com / zzzzry@outlook.com
 - 📬 zryyyy@qq.com / zhangruiyang66@gmail.com
 
 [![Zry's GitHub stats](https://zryyyy-readme-stats.vercel.app/api?username=zryyyy&show_icons=true)](https://github.com/zryyyy)
