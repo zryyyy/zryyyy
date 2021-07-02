@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 - 🌌 [Facebook](htttps://www.facebook.com): Zhang Ry / [Twitter](https://twitter.com/zryyyyyyyyy): zry 
 - 🌠 [Telegram](https://t.me/zryyyyy): zryyyyyy / [Instagram](https://www.instagram.com/zzzzzzzzzzzzry/): zzzzzzzzzzzzry
 - 📬 zryyyy@qq.com / zzzzry@outlook.com
-- 📬 zryyyy@qq.com / zhangruiyang66@gmail.com
 
 [![Zry's GitHub stats](https://zryyyy-readme-stats.vercel.app/api?username=zryyyy&show_icons=true)](https://github.com/zryyyy)
