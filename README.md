@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 -->
 ### Hi there 🌞
-- 😜 I'm zryyyy,the rookie who can't do anything
+- 😜 I'm [zryyyy](https://zryyyy.xyz),the rookie who can't do anything
 - 🌏 Zhoushan,Zhejiang,China
 - ✍️ [Blogger](https://zryyyy.github.io)
 - 🧗 Soccer / Golf / Swimming / Cycling
