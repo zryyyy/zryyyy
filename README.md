@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 - 📬 zryyyy@qq.com / zzzzry@outlook.com
 
 <a href="https://github.com/zryyyy/github-readme-stats">
-  <img align="center"  src="https://zryyyy-readme-stats.vercel.app/api?username=zryyyy&count_private=true&show_icons=true&show_owner=true" />
+  <img align="center"  src="https://zryyyy-readme-stats.vercel.app/api?username=zryyyy&count_private=true&show_icons=true&theme=default&show_owner=true" style="width:50%!important" />
 </a>
 <a href="https://github.com/zryyyy/github-readme-stats">
-  <img align="center"  src="https://zryyyy-readme-stats.vercel.app/api/top-langs/?username=zryyyy&layout=compact" />
+  <img align="center"  src="https://zryyyy-readme-stats.vercel.app/api/top-langs/?username=zryyyy&theme=default&layout=compact&hide=html" />
 </a>
