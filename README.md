@@ -12,6 +12,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://github.com/zryyyy/github-readme-stats">
+  <img align="center"  src="https://zryyyy-readme-stats.vercel.app/api?username=zryyyy&count_private=true&show_icons=true&theme=gotham&show_owner=true" />
+</a>
+<a href="https://github.com/zryyyy/github-readme-stats">
+  <img align="center"  src="https://zryyyy-readme-stats.vercel.app/api/top-langs/?username=zryyyy&theme=gotham&layout=compact" />
+</a>
+
+[![Zry's GitHub stats](https://zryyyy-readme-stats.vercel.app/api?username=zryyyy&show_icons=true)](https://github.com/zryyyy)
+
 -->
 ### Hi there 🌞
 - 😜 I'm zryyyy,the rookie who can't do anything
@@ -23,4 +33,9 @@ Here are some ideas to get you started:
 - 🌠 [Telegram](https://t.me/zryyyyy): zryyyyyy / [Instagram](https://www.instagram.com/zzzzzzzzzzzzry/): zzzzzzzzzzzzry
 - 📬 zryyyy@qq.com / zzzzry@outlook.com
 
-[![Zry's GitHub stats](https://zryyyy-readme-stats.vercel.app/api?username=zryyyy&show_icons=true)](https://github.com/zryyyy)
+<a href="https://github.com/zryyyy/github-readme-stats">
+  <img align="center"  src="https://zryyyy-readme-stats.vercel.app/api?username=zryyyy&count_private=true&show_icons=true&show_owner=true" />
+</a>
+<a href="https://github.com/zryyyy/github-readme-stats">
+  <img align="center"  src="https://zryyyy-readme-stats.vercel.app/api/top-langs/?username=zryyyy&layout=compact" />
+</a>
