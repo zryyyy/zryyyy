@@ -20,6 +20,13 @@ Here are some ideas to get you started:
   <img align="center"  src="https://zryyyy-readme-stats.vercel.app/api/top-langs/?username=zryyyy&theme=gotham&layout=compact" />
 </a>
 
+<a href="https://github.com/zryyyy/github-readme-stats">
+  <img align="center"  src="https://zryyyy-readme-stats.vercel.app/api?username=zryyyy&count_private=true&show_icons=true&theme=default&show_owner=true" style="width:50%!important" />
+</a>
+<a href="https://github.com/zryyyy/github-readme-stats">
+  <img align="center"  src="https://zryyyy-readme-stats.vercel.app/api/top-langs/?username=zryyyy&theme=default&layout=compact&hide=html" />
+</a>
+
 [![Zry's GitHub stats](https://zryyyy-readme-stats.vercel.app/api?username=zryyyy&show_icons=true)](https://github.com/zryyyy)
 
 -->
@@ -37,5 +44,5 @@ Here are some ideas to get you started:
   <img align="center"  src="https://zryyyy-readme-stats.vercel.app/api?username=zryyyy&count_private=true&show_icons=true&theme=default&show_owner=true" style="width:50%!important" />
 </a>
 <a href="https://github.com/zryyyy/github-readme-stats">
-  <img align="center"  src="https://zryyyy-readme-stats.vercel.app/api/top-langs/?username=zryyyy&theme=default&layout=compact&hide=html" />
+  <img align="center"  src="https://zryyyy-readme-stats.vercel.app/api/top-langs/?username=zryyyy&theme=default&layout=compact" />
 </a>
