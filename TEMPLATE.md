@@ -7,6 +7,7 @@
 - 🌠 [Telegram](https://t.me/zryyyyy): zryyyyyy / [Instagram](https://www.instagram.com/zzzzzzzzzzzzry/): zzzzzzzzzzzzry
 - 📬 zryyyy@qq.com / zzzzry@outlook.com
 - ✍️ [My Blog](https://zryyyy.github.io)
+- 🗺 Other Links: [Domain](https://zryyyy.xyz)  [Vercel](https://zryyyy.vercel.app)  [Netlify](https://zryyyy.netlify.app)
 
 <a href="https://github.com/zryyyy/github-readme-stats">
   <img align="center"  src="https://zryyyy-readme-stats.vercel.app/api?username=zryyyy&count_private=true&show_icons=true&theme=default&show_owner=true" style="width:50%!important" />
