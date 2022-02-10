@@ -23,13 +23,6 @@ jobs:
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.TOKEN }}
-      # https://github.com/marketplace/actions/profile_stack
-      - uses: gleich/profile_stack@master
-        with:
-          path: stack.yml
-          badges: false
-          technology_emoji: 👨🏻‍💻
-          project_emoji: 🚀
       # https://github.com/marketplace/actions/profile-readme-development-stats
 
 
@@ -52,6 +45,7 @@ jobs:
 #         with:
 #           github_token: ${{ secrets.TOKEN }}
 #   profile_stack:
+#     # 因为奇怪的错误被弃用
 #     # https://github.com/marketplace/actions/profile_stack
 #     runs-on: ubuntu-latest
 #     steps:
