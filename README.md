@@ -46,3 +46,16 @@ Here are some ideas to get you started:
 <a href="https://github.com/zryyyy/github-readme-stats">
   <img align="center"  src="https://zryyyy-readme-stats.vercel.app/api/top-langs/?username=zryyyy&theme=default&layout=compact" />
 </a>
+
+### Stacks
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
+### Recent Activities
+**Last activity:**Thursday, February 10th 2022, 9:57:08
+⬆️ Pushed 1 commit to zryyyy/zryyyy
+⬆️ Pushed 1 commit to zryyyy/zryyyy
+⬆️ Pushed 1 commit to zryyyy/zryyyy
+⬆️ Pushed 1 commit to zryyyy/zryyyy
+🎉 Merged PR #6 in zryyyy/github-readme-stats
+
