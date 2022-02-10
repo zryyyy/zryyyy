@@ -1,0 +1,44 @@
+name: Auto Deploy
+on:
+  schedule:
+    - cron: '0 */12 * * *' # every 12 hours
+  push:
+    branches:
+      - main
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  profile_readme:
+    # https://github.com/marketplace/actions/profile-readme
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Create README.md
+        uses: actions-js/profile-readme@master
+        with:
+          username: zryyyy
+          github_token: ${{ secrets.TOKEN }}
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.TOKEN }}
+  profile_stack:
+    # https://github.com/marketplace/actions/profile_stack
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gleich/profile_stack@master
+        with:
+          path: stack.yml
+          badges: false
+          technology_emoji: 👨🏻‍💻
+          project_emoji: 🚀
+#   profile-readme-development-stats:
+#     # https://github.com/marketplace/actions/profile-readme-development-stats
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
