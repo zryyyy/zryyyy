@@ -20,5 +20,12 @@
 ```
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 ```
+
+<details>
+
+<summary>Summary</summary>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+</details>
