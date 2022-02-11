@@ -25,4 +25,80 @@
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ```
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-233-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 55 Contributions in the Year 2022
+ > 
+> 📦 274.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    18 commits     █████░░░░░░░░░░░░░░░░░░░░   20.22% 
+🌆 Daytime    25 commits     ███████░░░░░░░░░░░░░░░░░░   28.09% 
+🌃 Evening    46 commits     █████████████░░░░░░░░░░░░   51.69% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37% 
+Tuesday      10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24% 
+Wednesday    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.61% 
+Thursday     33 commits     █████████░░░░░░░░░░░░░░░░   37.08% 
+Friday       14 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
+Saturday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37% 
+Sunday       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.61%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Stylus                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/zryyyy/zryyyy/main/charts/bar_graph.png) 
+
+
+ Last Updated on 11/02/2022 12:21:56 UTC
 <!--END_SECTION:waka-->
