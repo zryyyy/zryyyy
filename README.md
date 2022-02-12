@@ -16,7 +16,7 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Friday, February 11th 2022, 11:22:13
+**Last activity:** Saturday, February 12th 2022, 8:53:27
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -30,82 +30,7 @@
 <summary>Summary</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 61 Contributions in the Year 2022
- > 
-> 📦 274.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    18 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.95% 
-🌆 Daytime    25 commits     ██████░░░░░░░░░░░░░░░░░░░   26.32% 
-🌃 Evening    52 commits     █████████████░░░░░░░░░░░░   54.74% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16% 
-Tuesday      10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Wednesday    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68% 
-Thursday     33 commits     ████████░░░░░░░░░░░░░░░░░   34.74% 
-Friday       20 commits     █████░░░░░░░░░░░░░░░░░░░░   21.05% 
-Saturday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16% 
-Sunday       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Stylus                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/zryyyy/zryyyy/main/charts/bar_graph.png) 
-
-
- Last Updated on 11/02/2022 15:22:57 UTC
+  
 <!--END_SECTION:waka-->
 
 </details>
