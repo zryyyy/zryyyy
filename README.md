@@ -16,11 +16,11 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Sunday, February 13th 2022, 8:53:38
+**Last activity:** Sunday, February 13th 2022, 12:57:57
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 2 commits to zryyyy/hexo-theme-volantis
+⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ```
@@ -30,80 +30,7 @@
 <summary>Summary</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-322-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 61 Contributions in the Year 2022
- > 
-> 📦 274.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    18 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
-🌆 Daytime    27 commits     ███████░░░░░░░░░░░░░░░░░░   27.55% 
-🌃 Evening    53 commits     █████████████░░░░░░░░░░░░   54.08% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06% 
-Tuesday      10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-Wednesday    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
-Thursday     34 commits     ████████░░░░░░░░░░░░░░░░░   34.69% 
-Friday       20 commits     █████░░░░░░░░░░░░░░░░░░░░   20.41% 
-Saturday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.1% 
-Sunday       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.27%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
-
-🔥 Editors: 
-CLion                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
-
-🐱‍💻 Projects: 
-cpp                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
-
-💻 Operating System: 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Stylus                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/zryyyy/zryyyy/main/charts/bar_graph.png) 
-
-
- Last Updated on 13/02/2022 00:54:32 UTC
+  
 <!--END_SECTION:waka-->
 
 </details>
