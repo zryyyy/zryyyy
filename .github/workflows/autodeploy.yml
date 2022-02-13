@@ -2,7 +2,8 @@
 name: Auto Deploy
 on:
   schedule:
-    - cron: '0 */12 * * *' # every 12 hours
+    - cron: '0 10,22 * * *' # 北京时间上午和下午的的6点自动执行
+    # every 12 hours: 0 */12 * * *
 #   push:
 #     branches:
 #       - main
