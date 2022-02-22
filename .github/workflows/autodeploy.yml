@@ -11,11 +11,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  auto_deploy:
+  profile-readme:
+    # https://github.com/marketplace/actions/profile-readme
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      # https://github.com/marketplace/actions/profile-readme
       - name: Create README.md
         uses: actions-js/profile-readme@master
         with:
@@ -25,7 +25,12 @@ jobs:
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.TOKEN }}
-      # https://github.com/marketplace/actions/profile-readme-development-stats
+  profile-readme-development-stats:
+    # https://github.com/marketplace/actions/profile-readme-development-stats
+    needs: profile-readme
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
       - name: Profile Readme Development Stats
         uses: anmol098/waka-readme-stats@master
         with:
