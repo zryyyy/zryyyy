@@ -6,7 +6,7 @@
 - 🌌 [Facebook](https://www.facebook.com/zryyyyy): Zhang Ry / [Twitter](https://twitter.com/zryyyyyyyyy): zry 
 - 🌠 [Telegram](https://t.me/zryyyyy): zryyyyyy / [Instagram](https://www.instagram.com/zzzzzzzzzzzzry/): zzzzzzzzzzzzry
 - 📬 zryyyy@qq.com / zzzzry@outlook.com
-- ✍️ [My Blog](https://zryyyy.xyz) / Other Links: [Github](https://zryyyy.github.io)    [Vercel](https://zryyyy.vercel.app)    [Netlify](https://zryyyy.netlify.app)
+- ✍️ [My Blog](https://zryyyy.xyz) / Other Links: [Github](https://zryyyy.github.io)    [Vercel](https://zryyyy.vercel.app)    [Netlify](https://zryyyy.netlify.app)    ~~[Gitee](https://zryyyy.gitee.io)~~
 
 <a href="https://github.com/zryyyy/github-readme-stats">
   <img align="center"  src="https://zryyyy-readme-stats.vercel.app/api?username=zryyyy&count_private=true&show_icons=true&theme=default&show_owner=true" style="width:50%!important" />
