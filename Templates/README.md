@@ -29,6 +29,17 @@ Here are some ideas to get you started:
 [![Zry's GitHub stats](https://zryyyy-readme-stats.vercel.app/api?username=zryyyy&show_icons=true)](https://github.com/zryyyy)
 
 
+<details>
+
+<summary>Summary</summary>
+
+### Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Stacks
+
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
+</details>

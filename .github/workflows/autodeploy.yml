@@ -56,17 +56,19 @@ jobs:
           LOCALE: "en"
           COMMIT_BY_ME: "False" # 用自己的邮箱提交
           COMMIT_MESSAGE: "Updated with Dev Metrics" # 提交摘要
-          SHOW_TOTAL_CODE_TIME: "True" # 写代码总时间（文档位标明）
+          SHOW_TOTAL_CODE_TIME: "False" # 写代码总时间（标签）
 
-  profile_stack:
-    # https://github.com/marketplace/actions/profile_stack
-    runs-on: ubuntu-latest
-    needs: profile-readme-development-stats
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gleich/profile_stack@master
-        with:
-          path: stack.yml
-          badges: false
-          technology_emoji: 👨🏻‍💻
-          project_emoji: 🚀
+  # thread 'main' panicked at 'Failed to get env var config: too many characters in string
+  # 目前还暂时不知道这个问题的解决方法，Token也不知道在哪里添加
+  # profile_stack:
+  #   # https://github.com/marketplace/actions/profile_stack
+  #   runs-on: ubuntu-latest
+  #   needs: profile-readme-development-stats
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - uses: gleich/profile_stack@master
+  #       with:
+  #         path: stack.yml
+  #         badges: false
+  #         technology_emoji: 👨🏻‍💻
+  #         project_emoji: 🚀
