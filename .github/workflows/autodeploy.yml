@@ -16,6 +16,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+#         这三句暂时还没研究是干什么用的
+#         with:
+#           persist-credentials: false
+#           fetch-depth: 0
       - name: Create README.md
         uses: actions-js/profile-readme@master
         with:
@@ -36,73 +40,33 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.TOKEN }}
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_UPDATED_DATE: "False"
-          SHOW_LINES_OF_CODE: "False"
+          SHOW_PROFILE_VIEWS: "False" # 项目浏览量（标签）
+          SHOW_UPDATED_DATE: "False" # 最后一次更新的时间
+          SHOW_LINES_OF_CODE: "False" # 代码行数（标签）
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
-          SHOW_LOC_CHART: "False"
+          SHOW_LOC_CHART: "False" # 在图表中区分不同年份
           SHOW_EDITORS: "True"
           SHOW_TIMEZONE: "True"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_DAYS_OF_WEEK: "True"
-          SHOW_SHORT_INFO: "False"
+          SHOW_SHORT_INFO: "False" # 短个人信息
           LOCALE: "en"
-          COMMIT_BY_ME: "False"
-          COMMIT_MESSAGE: "Updated with Dev Metrics"
-          SHOW_TOTAL_CODE_TIME: "True"
+          COMMIT_BY_ME: "False" # 用自己的邮箱提交
+          COMMIT_MESSAGE: "Updated with Dev Metrics" # 提交摘要
+          SHOW_TOTAL_CODE_TIME: "True" # 写代码总时间（文档位标明）
 
-          # SHOW_PROFILE_VIEWS: "False"
-          # SHOW_UPDATED_DATE: "False"
-          # SHOW_LINES_OF_CODE: "False"
-          # SHOW_OS: "False"
-          # SHOW_PROJECTS: "False"
-          # SHOW_LOC_CHART: "False"
-          # SHOW_EDITORS: "True"
-          # SHOW_TIMEZONE: "True"
-          # SHOW_COMMIT: "True"
-          # SHOW_LANGUAGE: "True"
-          # SHOW_LANGUAGE_PER_REPO: "True"
-          # SHOW_DAYS_OF_WEEK: "True"
-          # SHOW_SHORT_INFO: "True"
-          # LOCALE: en
-          # COMMIT_BY_ME: "False"
-          # COMMIT_MESSAGE: Updated with Dev Metrics
-          # SHOW_TOTAL_CODE_TIME: "True"
-
-#   profile_readme:
-#     # https://github.com/marketplace/actions/profile-readme
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@master
-#         with:
-#           persist-credentials: false
-#           fetch-depth: 0
-#       - name: Create README.md
-#         uses: actions-js/profile-readme@master
-#         with:
-#           username: zryyyy
-#           github_token: ${{ secrets.TOKEN }}
-#       - name: Commit & Push changes
-#         uses: actions-js/push@master
-#         with:
-#           github_token: ${{ secrets.TOKEN }}
-#   profile_stack:
-#     # 因为奇怪的错误被弃用
-#     # https://github.com/marketplace/actions/profile_stack
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v2
-#       - uses: gleich/profile_stack@master
-#         with:
-#           path: stack.yml
-#           badges: false
-#           technology_emoji: 👨🏻‍💻
-#           project_emoji: 🚀
-#   profile-readme-development-stats:
-#     # https://github.com/marketplace/actions/profile-readme-development-stats
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v2
+  profile_stack:
+    # https://github.com/marketplace/actions/profile_stack
+    runs-on: ubuntu-latest
+    needs: profile-readme-development-stats
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gleich/profile_stack@master
+        with:
+          path: stack.yml
+          badges: false
+          technology_emoji: 👨🏻‍💻
+          project_emoji: 🚀

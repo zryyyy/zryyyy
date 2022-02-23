@@ -25,8 +25,13 @@
 
 <summary>Summary</summary>
 
+### Stats
+
 <!--START_SECTION:waka-->
-  
 <!--END_SECTION:waka-->
 
+### Stacks
+
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
 </details>
