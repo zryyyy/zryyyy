@@ -23,7 +23,7 @@
 
 <details>
 
-<summary>Summary</summary>
+<summary><b>Summary</b></summary>
 <br>
 
 <!--START_SECTION:waka-->
