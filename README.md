@@ -16,7 +16,7 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Thursday, March 10th 2022, 6:14:48
+**Last activity:** Friday, March 11th 2022, 6:13:38
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -31,70 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.94% 
-🌆 Daytime    44 commits     ████████░░░░░░░░░░░░░░░░░   31.88% 
-🌃 Evening    68 commits     ████████████░░░░░░░░░░░░░   49.28% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.9%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.52% 
-Tuesday      19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
-Wednesday    27 commits     █████░░░░░░░░░░░░░░░░░░░░   19.57% 
-Thursday     36 commits     ██████░░░░░░░░░░░░░░░░░░░   26.09% 
-Friday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
-Saturday     10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.25% 
-Sunday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.59%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-YAML                     2 hrs 6 mins        ████████████░░░░░░░░░░░░░   50.15% 
-EJS                      1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   31.37% 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.52% 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.78% 
-C++                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42%
-
-🔥 Editors: 
-VS Code                  4 hrs 4 mins        ████████████████████████░   96.58% 
-CLion                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42%
-
-🐱‍💻 Projects: 
-hexo                     2 hrs 26 mins       ██████████████░░░░░░░░░░░   57.91% 
-volantis                 1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   35.6% 
-cpp                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42% 
-CDN                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-💻 Operating System: 
-Windows                  4 hrs 13 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Stylus                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
