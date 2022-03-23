@@ -16,13 +16,13 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Wednesday, March 23rd 2022, 6:13:09
+**Last activity:** Wednesday, March 23rd 2022, 6:15:15
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 1 commit to zryyyy/C
+⬆️ Pushed 1 commit to zryyyy/zryyyy
 ```
 
 <details>
@@ -31,70 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
-🌆 Daytime    54 commits     ████████░░░░░░░░░░░░░░░░░   34.18% 
-🌃 Evening    76 commits     ████████████░░░░░░░░░░░░░   48.1% 
-🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
-Tuesday      19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.03% 
-Wednesday    28 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.72% 
-Thursday     34 commits     █████░░░░░░░░░░░░░░░░░░░░   21.52% 
-Friday       19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.03% 
-Saturday     21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
-Sunday       17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.76%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C++                      4 hrs 3 mins        ████████████░░░░░░░░░░░░░   49.49% 
-C                        2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.12% 
-ObjectiveC               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
-YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.32% 
-CMake                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
-
-🔥 Editors: 
-CLion                    7 hrs 43 mins       ███████████████████████░░   94.27% 
-VS Code                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.73%
-
-🐱‍💻 Projects: 
-cpp                      7 hrs 33 mins       ███████████████████████░░   92.11% 
-hexo                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.32% 
-studty                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16% 
-C [GitHub]               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
-
-💻 Operating System: 
-Windows                  8 hrs 11 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Stylus                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
