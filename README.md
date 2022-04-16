@@ -16,13 +16,13 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Saturday, April 16th 2022, 6:15:46
+**Last activity:** Sunday, April 17th 2022, 6:13:11
 ```
+⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 6 commits to zryyyy/hexo-theme-volantis
 ⬆️ Pushed 155 commits to zryyyy/hexo-theme-volantis
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 2 commits to zryyyy/zryyyy.github.io
-⬆️ Pushed 2 commits to zryyyy/hexo-test
 ```
 
 <details>
@@ -31,64 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
-🌆 Daytime    56 commits     ███████░░░░░░░░░░░░░░░░░░   30.94% 
-🌃 Evening    88 commits     ████████████░░░░░░░░░░░░░   48.62% 
-🌙 Night      14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.73%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.6% 
-Tuesday      23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
-Wednesday    29 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
-Thursday     40 commits     █████░░░░░░░░░░░░░░░░░░░░   22.1% 
-Friday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.6% 
-Saturday     27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.92% 
-Sunday       20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.05%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-YAML                     2 hrs 5 mins        █████████████████████████   99.97% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
-EJS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-hexo                     1 hr 57 mins        ███████████████████████░░   94.13% 
-volantis                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.87%
-
-💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
-HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Stylus                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
