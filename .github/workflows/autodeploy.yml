@@ -29,6 +29,14 @@ jobs:
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.TOKEN }}
+  # recent-github-activity-profile-readme:
+  #   # https://github.com/marketplace/actions/recent-github-activity-profile-readme
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v3
+  #     - uses: Readme-Workflows/recent-activity@v2.3.3
+  #       env:
+  #         GITHUB_TOKEN: ${{ secrets.TOKEN }}
   profile-readme-development-stats:
     # https://github.com/marketplace/actions/profile-readme-development-stats
     needs: profile-readme
@@ -72,3 +80,4 @@ jobs:
   #         badges: false
   #         technology_emoji: 👨🏻‍💻
   #         project_emoji: 🚀
+# https://github.com/marketplace/actions/social-readme
