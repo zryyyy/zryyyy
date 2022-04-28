@@ -31,6 +31,7 @@ jobs:
           github_token: ${{ secrets.TOKEN }}
   # recent-github-activity-profile-readme:
   #   # https://github.com/marketplace/actions/recent-github-activity-profile-readme
+  #   needs: profile-readme
   #   runs-on: ubuntu-latest
   #   steps:
   #     - uses: actions/checkout@v3
