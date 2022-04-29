@@ -21,6 +21,8 @@ jobs:
         with:
           username: zryyyy
           github_token: ${{ secrets.TOKEN }}
+      - name: Output README.md content
+        run: cat README.md
       # https://github.com/marketplace/actions/profile-readme-development-stats
       - name: Profile Readme Development Stats
         uses: anmol098/waka-readme-stats@master
@@ -43,7 +45,7 @@ jobs:
           LOCALE: "en"
           COMMIT_BY_ME: "False" # 用自己的邮箱提交
           COMMIT_MESSAGE: "Updated with Dev Metrics" # 提交摘要
-          SHOW_TOTAL_CODE_TIME: "False" # 写代码总时间（标签）      
+          SHOW_TOTAL_CODE_TIME: "False" # 写代码总时间（标签）
       # - name: Commit & Push changes
       #   uses: actions-js/push@master
       #   with:
