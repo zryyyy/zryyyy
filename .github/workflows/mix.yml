@@ -22,7 +22,9 @@ jobs:
           username: zryyyy
           github_token: ${{ secrets.TOKEN }}
       - name: Output README.md content
-        run: cat README.md
+        run: | 
+          cat README.md
+          git add .
       # https://github.com/marketplace/actions/profile-readme-development-stats
       - name: Profile Readme Development Stats
         uses: anmol098/waka-readme-stats@master
