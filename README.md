@@ -16,7 +16,7 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Sunday, May 1st 2022, 6:15:50
+**Last activity:** Monday, May 2nd 2022, 6:13:44
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -31,71 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    39 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.41% 
-🌆 Daytime    75 commits     ████████░░░░░░░░░░░░░░░░░   33.48% 
-🌃 Evening    99 commits     ███████████░░░░░░░░░░░░░░   44.2% 
-🌙 Night      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.91%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
-Tuesday      27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
-Wednesday    38 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.96% 
-Thursday     47 commits     █████░░░░░░░░░░░░░░░░░░░░   20.98% 
-Friday       40 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
-Saturday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-Sunday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.82%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-YAML                     5 hrs 51 mins       ██████████████░░░░░░░░░░░   57.86% 
-C++                      3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   35.28% 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35% 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8% 
-Go                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
-
-🔥 Editors: 
-VS Code                  6 hrs 26 mins       ███████████████░░░░░░░░░░   63.48% 
-CLion                    3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   35.31% 
-Atom                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22%
-
-🐱‍💻 Projects: 
-cpp                      3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   35.31% 
-Auto_Scripts [GitHub]    1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
-zryyyy [GitHub]          1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
-Back-end [GitHub]        1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   11.01% 
-hexo                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.8%
-
-💻 Operating System: 
-Windows                  10 hrs 8 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
-HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Stylus                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
