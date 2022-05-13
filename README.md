@@ -16,13 +16,13 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Friday, May 13th 2022, 6:16:56
+**Last activity:** Saturday, May 14th 2022, 6:14:47
 ```
+⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 2 commits to zryyyy/hexo-test
 ⬆️ Pushed 2 commits to zryyyy/hexo-test
 ⬆️ Pushed 2 commits to zryyyy/hexo-test
 ⬆️ Pushed 9 commits to zryyyy/hexo-theme-volantis
-🎉 Merged PR #6 in zryyyy/hexo-theme-volantis
 ```
 
 <details>
@@ -31,71 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    51 commits     █████░░░░░░░░░░░░░░░░░░░░   20.56% 
-🌆 Daytime    77 commits     ███████░░░░░░░░░░░░░░░░░░   31.05% 
-🌃 Evening    109 commits    ███████████░░░░░░░░░░░░░░   43.95% 
-🌙 Night      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.44%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.89% 
-Tuesday      34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
-Wednesday    38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
-Thursday     49 commits     █████░░░░░░░░░░░░░░░░░░░░   19.76% 
-Friday       47 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.95% 
-Saturday     28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.29% 
-Sunday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.08%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Go                       6 hrs 41 mins       ████████████░░░░░░░░░░░░░   49.7% 
-C++                      3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58% 
-YAML                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.58% 
-Other                    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
-EJS                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05%
-
-🔥 Editors: 
-VS Code                  9 hrs 53 mins       ██████████████████░░░░░░░   73.56% 
-CLion                    3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   26.44%
-
-🐱‍💻 Projects: 
-project                  7 hrs 15 mins       █████████████░░░░░░░░░░░░   53.92% 
-cpp                      3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   26.15% 
-hexo                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.94% 
-ssh-remote+7b22686f73744e38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.75% 
-volantis                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.36%
-
-💻 Operating System: 
-Linux                    7 hrs 58 mins       ██████████████░░░░░░░░░░░   59.26% 
-Windows                  5 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   40.74%
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
