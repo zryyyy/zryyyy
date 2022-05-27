@@ -31,6 +31,69 @@
 <br>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    68 commits     ██████░░░░░░░░░░░░░░░░░░░   25.37% 
+🌆 Daytime    81 commits     ███████░░░░░░░░░░░░░░░░░░   30.22% 
+🌃 Evening    106 commits    ██████████░░░░░░░░░░░░░░░   39.55% 
+🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.85%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
+Tuesday      40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.93% 
+Wednesday    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.04% 
+Thursday     53 commits     █████░░░░░░░░░░░░░░░░░░░░   19.78% 
+Friday       47 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
+Saturday     28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
+Sunday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.07%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C++                      5 hrs 25 mins       ████████████████████░░░░░   81.69% 
+YAML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14% 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79% 
+EJS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39%
+
+🔥 Editors: 
+CLion                    5 hrs 28 mins       ████████████████████░░░░░   82.44% 
+VS Code                  1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.56%
+
+🐱‍💻 Projects: 
+cpp                      5 hrs 26 mins       ████████████████████░░░░░   81.91% 
+hexo                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.04% 
+volantis                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53% 
+study                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
+
+💻 Operating System: 
+Windows                  6 hrs 39 mins       █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
