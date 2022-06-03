@@ -31,6 +31,68 @@
 <br>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    73 commits     ██████░░░░░░░░░░░░░░░░░░░   26.45% 
+🌆 Daytime    85 commits     ███████░░░░░░░░░░░░░░░░░░   30.8% 
+🌃 Evening    105 commits    █████████░░░░░░░░░░░░░░░░   38.04% 
+🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.71%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.23% 
+Tuesday      39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
+Wednesday    44 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.94% 
+Thursday     54 commits     █████░░░░░░░░░░░░░░░░░░░░   19.57% 
+Friday       48 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Saturday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
+Sunday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.14%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C++                      29 mins             ██████████████████░░░░░░░   72.08% 
+YAML                     11 mins             ███████░░░░░░░░░░░░░░░░░░   27.9% 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+🔥 Editors: 
+CLion                    29 mins             ██████████████████░░░░░░░   72.1% 
+VS Code                  11 mins             ███████░░░░░░░░░░░░░░░░░░   27.9%
+
+🐱‍💻 Projects: 
+cpp                      29 mins             ██████████████████░░░░░░░   72.1% 
+hexo                     11 mins             ███████░░░░░░░░░░░░░░░░░░   27.9% 
+project                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+💻 Operating System: 
+Windows                  40 mins             █████████████████████████   100.0% 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
