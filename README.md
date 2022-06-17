@@ -16,7 +16,7 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Friday, June 17th 2022, 6:13:51
+**Last activity:** Friday, June 17th 2022, 6:15:03
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -31,62 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    87 commits     ███████░░░░░░░░░░░░░░░░░░   30.1% 
-🌆 Daytime    85 commits     ███████░░░░░░░░░░░░░░░░░░   29.41% 
-🌃 Evening    104 commits    █████████░░░░░░░░░░░░░░░░   35.99% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.5%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
-Tuesday      40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.84% 
-Wednesday    45 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.57% 
-Thursday     56 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.38% 
-Friday       50 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.3% 
-Saturday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
-Sunday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.38%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-YAML                     54 mins             █████████████████████████   100.0%
-
-🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-hexo                     52 mins             ████████████████████████░   97.92% 
-volantis                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
-
-💻 Operating System: 
-Windows                  54 mins             █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
