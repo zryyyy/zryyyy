@@ -31,6 +31,62 @@
 <br>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    88 commits     ███████░░░░░░░░░░░░░░░░░░   30.34% 
+🌆 Daytime    85 commits     ███████░░░░░░░░░░░░░░░░░░   29.31% 
+🌃 Evening    104 commits    █████████░░░░░░░░░░░░░░░░   35.86% 
+🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.48%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
+Tuesday      40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Wednesday    45 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.52% 
+Thursday     56 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.31% 
+Friday       51 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.59% 
+Saturday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
+Sunday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+YAML                     54 mins             █████████████████████████   100.0%
+
+🔥 Editors: 
+VS Code                  54 mins             █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+hexo                     52 mins             ████████████████████████░   97.92% 
+volantis                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
+
+💻 Operating System: 
+Windows                  54 mins             █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
