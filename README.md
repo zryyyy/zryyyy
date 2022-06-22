@@ -31,6 +31,66 @@
 <br>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    93 commits     ████████░░░░░░░░░░░░░░░░░   31.53% 
+🌆 Daytime    85 commits     ███████░░░░░░░░░░░░░░░░░░   28.81% 
+🌃 Evening    104 commits    ████████░░░░░░░░░░░░░░░░░   35.25% 
+🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.41%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
+Tuesday      41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
+Wednesday    46 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.59% 
+Thursday     56 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.98% 
+Friday       51 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.29% 
+Saturday     33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
+Sunday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.51%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+HTML                     4 hrs 33 mins       ████████████████████████░   97.33% 
+C++                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67%
+
+🔥 Editors: 
+WebStorm                 4 hrs 33 mins       ████████████████████████░   97.33% 
+CLion                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67%
+
+🐱‍💻 Projects: 
+web                      4 hrs 32 mins       ████████████████████████░   97.05% 
+cpp                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9% 
+study                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
+
+💻 Operating System: 
+Windows                  4 hrs 40 mins       █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
