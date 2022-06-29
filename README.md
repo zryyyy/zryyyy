@@ -31,6 +31,64 @@
 <br>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    100 commits    ████████░░░░░░░░░░░░░░░░░   33.11% 
+🌆 Daytime    85 commits     ███████░░░░░░░░░░░░░░░░░░   28.15% 
+🌃 Evening    104 commits    ████████░░░░░░░░░░░░░░░░░   34.44% 
+🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.3%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.58% 
+Tuesday      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.91% 
+Wednesday    47 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
+Thursday     57 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.87% 
+Friday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
+Saturday     34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.26% 
+Sunday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.6%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C++                      7 mins              ████████████████████░░░░░   83.0% 
+HTML                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.0%
+
+🔥 Editors: 
+CLion                    7 mins              ████████████████████░░░░░   83.0% 
+WebStorm                 1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.0%
+
+🐱‍💻 Projects: 
+study                    7 mins              ████████████████████░░░░░   83.0% 
+web                      1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.0%
+
+💻 Operating System: 
+Windows                  9 mins              █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
