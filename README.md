@@ -31,6 +31,61 @@
 <br>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    104 commits    ████████░░░░░░░░░░░░░░░░░   33.99% 
+🌆 Daytime    85 commits     ███████░░░░░░░░░░░░░░░░░░   27.78% 
+🌃 Evening    104 commits    ████████░░░░░░░░░░░░░░░░░   33.99% 
+🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.25%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.42% 
+Tuesday      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
+Wednesday    47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.36% 
+Thursday     58 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.95% 
+Friday       53 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
+Saturday     35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.44% 
+Sunday       33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.78%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C++                      0 secs              █████████████████████████   100.0%
+
+🔥 Editors: 
+CLion                    0 secs              █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+study                    0 secs              █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  0 secs              █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
