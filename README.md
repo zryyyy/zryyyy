@@ -16,7 +16,7 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Friday, July 8th 2022, 6:14:12
+**Last activity:** Friday, July 8th 2022, 6:16:59
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -31,61 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    108 commits    ████████░░░░░░░░░░░░░░░░░   34.84% 
-🌆 Daytime    85 commits     ██████░░░░░░░░░░░░░░░░░░░   27.42% 
-🌃 Evening    104 commits    ████████░░░░░░░░░░░░░░░░░   33.55% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.19%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.58% 
-Tuesday      43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
-Wednesday    48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
-Thursday     59 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.03% 
-Friday       53 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.1% 
-Saturday     35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.29% 
-Sunday       33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.65%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
