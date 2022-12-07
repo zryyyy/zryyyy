@@ -16,7 +16,7 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Wednesday, December 7th 2022, 6:12:13
+**Last activity:** Wednesday, December 7th 2022, 6:13:53
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -31,73 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    126 commits    █████████░░░░░░░░░░░░░░░░   38.89% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   24.07% 
-🌃 Evening    107 commits    ████████░░░░░░░░░░░░░░░░░   33.02% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.01%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
-Tuesday      48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
-Wednesday    49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
-Thursday     58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.9% 
-Friday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.43% 
-Saturday     39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.04% 
-Sunday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C                        2 hrs 20 mins       ████████████░░░░░░░░░░░░░   51.28% 
-V                        40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
-ObjectiveC               38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.11% 
-Java                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.7% 
-CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.9%
-
-🔥 Editors: 
-CLion                    3 hrs 6 mins        █████████████████░░░░░░░░   68.18% 
-VS Code                  46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.13% 
-IntelliJ                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.7% 
-WebStorm                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.75% 
-Atom                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
-
-🐱‍💻 Projects: 
-c99                      3 hrs 2 mins        ████████████████░░░░░░░░░   66.75% 
-Read-Temperature-from-ADT25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.45% 
-Verilog                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.92% 
-javaHelloWorld           21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.7% 
-web                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.75%
-
-💻 Operating System: 
-Windows                  4 hrs 33 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
