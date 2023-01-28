@@ -16,7 +16,7 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Saturday, January 28th 2023, 6:12:30
+**Last activity:** Sunday, January 29th 2023, 6:10:40
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -31,71 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    126 commits    █████████░░░░░░░░░░░░░░░░   38.89% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   24.07% 
-🌃 Evening    107 commits    ████████░░░░░░░░░░░░░░░░░   33.02% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.01%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
-Tuesday      47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.51% 
-Wednesday    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.43% 
-Thursday     58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.9% 
-Friday       51 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.74% 
-Saturday     40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
-Sunday       37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.42%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-JavaScript               47 mins             ███████░░░░░░░░░░░░░░░░░░   29.55% 
-Vue.js                   46 mins             ███████░░░░░░░░░░░░░░░░░░   28.5% 
-HTML                     38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.76% 
-JSON                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.65% 
-V                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
-
-🔥 Editors: 
-WebStorm                 2 hrs 1 min         ██████████████████░░░░░░░   75.36% 
-VS Code                  34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.2% 
-Atom                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
-IntelliJ                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
-
-🐱‍💻 Projects: 
-web                      1 hr 28 mins        █████████████░░░░░░░░░░░░   54.94% 
-project                  1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   42.92% 
-Read-Temperature-from-ADT1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21% 
-javaHelloWorld           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
-
-💻 Operating System: 
-Windows                  2 hrs 41 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
