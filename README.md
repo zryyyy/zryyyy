@@ -31,6 +31,58 @@
 <br>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                349 commits         ████████████████░░░░░░░░░   62.10 % 
+🌆 Daytime                88 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+🌃 Evening                112 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Tuesday                  81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Wednesday                82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Thursday                 96 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Friday                   96 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Saturday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Sunday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Stylus                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
