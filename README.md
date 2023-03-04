@@ -31,6 +31,65 @@
 <br>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                351 commits         ████████████████░░░░░░░░░   62.23 % 
+🌆 Daytime                88 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+🌃 Evening                112 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Tuesday                  81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Wednesday                82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Thursday                 96 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Friday                   97 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Saturday                 70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Sunday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C++                      2 hrs 8 mins        ███████████████████████░░   92.01 % 
+Vue.js                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+C                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+
+🔥 Editors: 
+CLion                    2 hrs 11 mins       ████████████████████████░   94.36 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+
+🐱‍💻 Projects: 
+study                    2 hrs 11 mins       ███████████████████████░░   93.83 % 
+vue                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+cpp                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+
+💻 Operating System: 
+Windows                  2 hrs 19 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Stylus                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
