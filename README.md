@@ -31,6 +31,67 @@
 <br>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                482 commits         ██████████░░░░░░░░░░░░░░░   40.27 % 
+🌆 Daytime                342 commits         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+🌃 Evening                312 commits         ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+🌙 Night                  61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   173 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Tuesday                  195 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Wednesday                170 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Thursday                 203 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Friday                   195 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Saturday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Sunday                   106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   3 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.22 % 
+Vue.js                   3 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.47 % 
+V                        1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+CSV/TSV                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+
+🔥 Editors: 
+WebStorm                 4 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.81 % 
+PyCharm                  4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.20 % 
+VS Code                  1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+
+🐱‍💻 Projects: 
+cryptography             4 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.80 % 
+python                   4 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   39.85 % 
+Verilog                  1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+
+💻 Operating System: 
+Windows                  10 hrs 12 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
+HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
