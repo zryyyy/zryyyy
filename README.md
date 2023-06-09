@@ -16,7 +16,7 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Friday, June 9th 2023, 6:10:43
+**Last activity:** Friday, June 9th 2023, 6:12:08
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -31,58 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                524 commits         ███████████░░░░░░░░░░░░░░   42.36 % 
-🌆 Daytime                342 commits         ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-🌃 Evening                311 commits         ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-🌙 Night                  60 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   179 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Tuesday                  199 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Wednesday                176 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Thursday                 210 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Friday                   201 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Saturday                 160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Sunday                   112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-PyCharm                  0 secs              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-python                   0 secs              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
