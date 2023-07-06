@@ -16,7 +16,7 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Thursday, July 6th 2023, 6:12:39
+**Last activity:** Thursday, July 6th 2023, 6:14:42
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -31,67 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                551 commits         ███████████░░░░░░░░░░░░░░   43.59 % 
-🌆 Daytime                342 commits         ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-🌃 Evening                311 commits         ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
-🌙 Night                  60 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   183 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Tuesday                  203 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Wednesday                180 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Thursday                 213 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Friday                   205 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Saturday                 164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Sunday                   116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    7 mins              ██████████░░░░░░░░░░░░░░░   41.35 % 
-JavaScript               4 mins              ███████░░░░░░░░░░░░░░░░░░   26.93 % 
-HTML                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Assembly                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-
-🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   99.90 % 
-WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-
-🐱‍💻 Projects: 
-DormitorySystem          8 mins              ████████████░░░░░░░░░░░░░   46.67 % 
-root                     5 mins              ████████░░░░░░░░░░░░░░░░░   30.11 % 
-cpu                      4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-cryptography             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-
-💻 Operating System: 
-Linux                    14 mins             ███████████████████░░░░░░   76.78 % 
-Windows                  4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
