@@ -16,9 +16,9 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Saturday, October 14th 2023, 6:10:18
+**Last activity:** Saturday, October 14th 2023, 6:10:24
 ```
-⬆️ Pushed 1 commit to zryyyy/zryyyy
+❗️ Opened issue #5 in nexmoe/vscode-monitor-pro
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -31,65 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                651 commits         ████████████░░░░░░░░░░░░░   48.08 % 
-🌆 Daytime                340 commits         ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-🌃 Evening                304 commits         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   198 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Tuesday                  212 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Wednesday                191 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Thursday                 227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Friday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Saturday                 178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Sunday                   128 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   9 mins              ███████████░░░░░░░░░░░░░░   43.39 % 
-Java                     8 mins              █████████░░░░░░░░░░░░░░░░   37.02 % 
-SQL                      4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-
-🔥 Editors: 
-PyCharm                  9 mins              ███████████░░░░░░░░░░░░░░   43.39 % 
-IntelliJ                 8 mins              █████████░░░░░░░░░░░░░░░░   37.02 % 
-DataGrip                 4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-
-🐱‍💻 Projects: 
-python                   9 mins              ███████████░░░░░░░░░░░░░░   43.39 % 
-javaHelloWorld           7 mins              █████████░░░░░░░░░░░░░░░░   34.49 % 
-Database                 4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-
-💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
