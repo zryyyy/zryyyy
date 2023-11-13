@@ -1,6 +1,6 @@
 ### Hi there 🌞
-- 😜 I'm [zryyyy](https://zryyyy.xyz),the rookie who can't do anything
-- 🌏 Zhoushan,Zhejiang,China
+- 😜 I'm [zryyyy](https://zryyyy.xyz), the rookie who can't do anything
+- 🌏 Zhoushan, Zhejiang, China
 - 🧗 Soccer / Golf / Swimming / Cycling
 - 🪐 [QQ](https://qm.qq.com/cgi-bin/qm/qr?k=lOpv8UwUECEU81Z7YzBde8-a4SSaKFTS&noverify=0): zhangry / [WeChat](https://u.wechat.com/MN5tFxNsKZvWhTB-i4_JacQ): zryyyyyyyyyyy
 - 🌌 [Facebook](https://www.facebook.com/zryyyyy): Zhang Ry / [Twitter](https://twitter.com/zryyyyyyyyy): zry 
@@ -16,13 +16,13 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Monday, November 13th 2023, 6:12:41
+**Last activity:** Tuesday, November 14th 2023, 6:10:30
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
-📦 Released "8.2.1 20231111" in zryyyy/Cisco-Packet-Tracer-Chinese
+⬆️ Pushed 1 commit to zryyyy/zryyyy
 ```
 
 <details>
@@ -31,62 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                682 commits         ████████████░░░░░░░░░░░░░   49.14 % 
-🌆 Daytime                340 commits         ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-🌃 Evening                307 commits         ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Tuesday                  217 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Wednesday                195 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Thursday                 231 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Friday                   224 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Saturday                 184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Sunday                   134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Jupyter                  13 mins             █████████████████████░░░░   82.02 % 
-Java                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-
-🔥 Editors: 
-PyCharm                  13 mins             █████████████████████░░░░   82.77 % 
-IntelliJ                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-
-🐱‍💻 Projects: 
-python                   13 mins             █████████████████████░░░░   82.77 % 
-javaHelloWorld           2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-
-💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
