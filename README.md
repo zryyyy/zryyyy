@@ -16,7 +16,7 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Friday, December 22nd 2023, 6:10:12
+**Last activity:** Friday, December 22nd 2023, 6:12:19
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -31,58 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                720 commits         █████████████░░░░░░░░░░░░   50.42 % 
-🌆 Daytime                340 commits         ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-🌃 Evening                309 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   209 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Tuesday                  223 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Wednesday                201 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Thursday                 237 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Friday                   229 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Saturday                 189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Sunday                   140 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
