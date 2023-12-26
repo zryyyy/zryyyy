@@ -16,7 +16,7 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Tuesday, December 26th 2023, 6:12:16
+**Last activity:** Wednesday, December 27th 2023, 6:10:27
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -31,61 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                725 commits         █████████████░░░░░░░░░░░░   50.59 % 
-🌆 Daytime                340 commits         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-🌃 Evening                309 commits         █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   210 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Tuesday                  224 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Wednesday                201 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Thursday                 237 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Friday                   230 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Saturday                 190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Sunday                   141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   39 mins             █████████████████████████   99.96 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-PyCharm                  39 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-python                   38 mins             ████████████████████████░   96.48 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-
-💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
