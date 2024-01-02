@@ -31,6 +31,58 @@
 <br>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                732 commits         █████████████░░░░░░░░░░░░   50.83 % 
+🌆 Daytime                340 commits         ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+🌃 Evening                309 commits         █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   211 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Tuesday                  225 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Wednesday                202 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Thursday                 238 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Friday                   231 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Saturday                 191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Sunday                   142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   18 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+PyCharm                  18 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+python                   18 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  18 mins             █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
