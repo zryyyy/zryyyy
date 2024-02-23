@@ -16,7 +16,7 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Friday, February 23rd 2024, 6:13:04
+**Last activity:** Saturday, February 24th 2024, 6:10:13
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -31,58 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                785 commits         █████████████░░░░░░░░░░░░   52.58 % 
-🌆 Daytime                340 commits         ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-🌃 Evening                309 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   219 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Tuesday                  232 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Wednesday                210 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Thursday                 246 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Friday                   239 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Saturday                 198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Sunday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
