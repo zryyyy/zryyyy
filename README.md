@@ -16,13 +16,13 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Saturday, March 9th 2024, 6:12:25
+**Last activity:** Saturday, March 9th 2024, 6:12:23
 ```
-⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 1 commit to zryyyy/zryyyy
+📦 Released "8.2.1 20240309" in zryyyy/Cisco-Packet-Tracer-Chinese
+❗️ Closed issue #3 in zryyyy/Cisco-Packet-Tracer-Chinese
+❗️ Closed issue #2 in zryyyy/Cisco-Packet-Tracer-Chinese
+❗️ Closed issue #1 in zryyyy/Cisco-Packet-Tracer-Chinese
+⬆️ Pushed 1 commit to zryyyy/Cisco-Packet-Tracer-Chinese
 ```
 
 <details>
@@ -31,59 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                799 commits         █████████████░░░░░░░░░░░░   53.02 % 
-🌆 Daytime                340 commits         ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-🌃 Evening                309 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   221 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Tuesday                  234 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Wednesday                212 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Thursday                 248 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Friday                   241 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Saturday                 200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Sunday                   151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   98.85 % 
-CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-
-🔥 Editors: 
-PyCharm                  0 secs              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-python                   0 secs              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
