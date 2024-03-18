@@ -31,6 +31,63 @@
 <br>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                809 commits         █████████████░░░░░░░░░░░░   53.29 % 
+🌆 Daytime                341 commits         ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+🌃 Evening                309 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   223 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Tuesday                  235 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Wednesday                213 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Thursday                 249 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Friday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Saturday                 203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Sunday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Go                       2 hrs 9 mins        █████████████████████░░░░   85.82 % 
+Python                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+🔥 Editors: 
+GoLand                   2 hrs 9 mins        █████████████████████░░░░   85.87 % 
+PyCharm                  21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+
+🐱‍💻 Projects: 
+Go                       2 hrs 9 mins        █████████████████████░░░░   85.74 % 
+python                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+
+💻 Operating System: 
+Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
