@@ -16,7 +16,7 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Wednesday, April 3rd 2024, 6:12:51
+**Last activity:** Thursday, April 4th 2024, 6:10:18
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -31,62 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                825 commits         █████████████░░░░░░░░░░░░   53.78 % 
-🌆 Daytime                341 commits         ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-🌃 Evening                309 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   225 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Tuesday                  238 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Wednesday                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Thursday                 251 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Friday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Saturday                 205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Sunday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Go                       41 mins             ███████████████░░░░░░░░░░   59.82 % 
-Python                   27 mins             ██████████░░░░░░░░░░░░░░░   40.18 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-GoLand                   41 mins             ███████████████░░░░░░░░░░   59.82 % 
-PyCharm                  27 mins             ██████████░░░░░░░░░░░░░░░   40.18 % 
-
-🐱‍💻 Projects: 
-Go                       41 mins             ███████████████░░░░░░░░░░   59.82 % 
-python                   27 mins             ██████████░░░░░░░░░░░░░░░   40.18 % 
-
-💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
