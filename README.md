@@ -31,6 +31,59 @@
 <br>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                846 commits         ██████████████░░░░░░░░░░░   54.37 % 
+🌆 Daytime                341 commits         █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+🌃 Evening                310 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   228 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Tuesday                  242 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Wednesday                219 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Thursday                 254 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Friday                   247 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Saturday                 208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Sunday                   158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Go                       2 hrs 18 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+GoLand                   2 hrs 18 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Go                       2 hrs 18 mins       █████████████████████████   99.95 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+💻 Operating System: 
+Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
