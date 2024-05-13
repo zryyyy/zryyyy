@@ -16,10 +16,10 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Monday, May 13th 2024, 6:13:18
+**Last activity:** Tuesday, May 14th 2024, 6:12:06
 ```
-⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 1 commit to zryyyy/zryyyy
+📦 Released "8.2.1 20240513" in zryyyy/Cisco-Packet-Tracer-Chinese
+⬆️ Pushed 1 commit to zryyyy/Cisco-Packet-Tracer-Chinese
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -31,62 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                865 commits         ██████████████░░░░░░░░░░░   54.92 % 
-🌆 Daytime                341 commits         █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-🌃 Evening                310 commits         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   231 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Tuesday                  244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Wednesday                221 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Thursday                 257 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Friday                   250 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Saturday                 211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Sunday                   161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   7 mins              ████████████████████░░░░░   80.47 % 
-Go                       1 min               █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Api File                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-
-🔥 Editors: 
-PyCharm                  7 mins              ████████████████████░░░░░   80.47 % 
-GoLand                   1 min               █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-
-🐱‍💻 Projects: 
-python                   7 mins              ████████████████████░░░░░   80.47 % 
-Go                       1 min               █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-
-💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
