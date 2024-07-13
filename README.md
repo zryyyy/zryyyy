@@ -16,7 +16,7 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Saturday, July 13th 2024, 6:11:53
+**Last activity:** Saturday, July 13th 2024, 6:12:28
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -31,69 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                925 commits         ██████████████░░░░░░░░░░░   56.54 % 
-🌆 Daytime                341 commits         █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-🌃 Evening                311 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   240 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Tuesday                  253 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Wednesday                230 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Thursday                 266 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Friday                   259 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Saturday                 219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Sunday                   169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue.js                   7 hrs 1 min         ███████████████████░░░░░░   77.65 % 
-JavaScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-SQL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-
-🔥 Editors: 
-WebStorm                 7 hrs 53 mins       ██████████████████████░░░   87.18 % 
-VS Code                  1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-DataGrip                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🐱‍💻 Projects: 
-mobile                   7 hrs 24 mins       ████████████████████░░░░░   81.94 % 
-KnowledgeBase-Vue3       1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-phoneInfoSearch          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Database                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-
-💻 Operating System: 
-Windows                  9 hrs 3 mins        █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
