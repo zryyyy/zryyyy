@@ -31,6 +31,69 @@
 <br>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                930 commits         ██████████████░░░░░░░░░░░   56.64 % 
+🌆 Daytime                342 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+🌃 Evening                311 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   241 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Tuesday                  256 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Wednesday                230 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Thursday                 266 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Friday                   259 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Saturday                 220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Sunday                   170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Vue.js                   13 hrs 55 mins      █████████████████████░░░░   85.96 % 
+JavaScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+SQL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+
+🔥 Editors: 
+WebStorm                 15 hrs 2 mins       ███████████████████████░░   92.84 % 
+VS Code                  1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+DataGrip                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🐱‍💻 Projects: 
+mobile                   14 hrs 33 mins      ██████████████████████░░░   89.83 % 
+KnowledgeBase-Vue3       1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+phoneInfoSearch          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Database                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+
+💻 Operating System: 
+Windows                  16 hrs 12 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
