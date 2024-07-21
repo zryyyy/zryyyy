@@ -16,11 +16,11 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Sunday, July 21st 2024, 6:13:04
+**Last activity:** Monday, July 22nd 2024, 6:12:06
 ```
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 1 commit to DennyNo1/KnowledgeBase-Vue3-Mobile
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
+⬆️ Pushed 1 commit to DennyNo1/KnowledgeBase-Vue3-Mobile
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ```
@@ -31,65 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                938 commits         ██████████████░░░░░░░░░░░   56.61 % 
-🌆 Daytime                347 commits         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-🌃 Evening                313 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   241 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Tuesday                  256 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Wednesday                234 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Thursday                 270 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Friday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Saturday                 222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Sunday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue.js                   17 hrs 43 mins      ██████████████████████░░░   89.79 % 
-JavaScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-
-🔥 Editors: 
-WebStorm                 18 hrs 59 mins      ████████████████████████░   96.16 % 
-VS Code                  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-
-🐱‍💻 Projects: 
-mobile                   18 hrs 38 mins      ████████████████████████░   94.42 % 
-KnowledgeBase-Vue3       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-video-website            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-
-💻 Operating System: 
-Windows                  19 hrs 44 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
