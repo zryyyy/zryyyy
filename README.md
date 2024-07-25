@@ -16,12 +16,12 @@
 </a>
 
 ### Recent Activities
-**Last activity:** Thursday, July 25th 2024, 6:12:50
+**Last activity:** Thursday, July 25th 2024, 6:14:18
 ```
-⬆️ Pushed 1 commit to zryyyy/Cisco-Packet-Tracer-Chinese
-⬆️ Pushed 1 commit to zryyyy/Cisco-Packet-Tracer-Chinese
-⬆️ Pushed 1 commit to zryyyy/Cisco-Packet-Tracer-Chinese
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
+⬆️ Pushed 1 commit to zryyyy/Cisco-Packet-Tracer-Chinese
+⬆️ Pushed 1 commit to zryyyy/Cisco-Packet-Tracer-Chinese
+⬆️ Pushed 1 commit to zryyyy/Cisco-Packet-Tracer-Chinese
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ```
 
@@ -31,64 +31,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                941 commits         ██████████████░░░░░░░░░░░   56.58 % 
-🌆 Daytime                347 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-🌃 Evening                316 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-🌙 Night                  59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Tuesday                  257 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Wednesday                238 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Thursday                 270 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Friday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Saturday                 222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Sunday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue.js                   2 hrs 41 mins       ████████████████████░░░░░   79.49 % 
-JavaScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-
-🔥 Editors: 
-WebStorm                 3 hrs 22 mins       █████████████████████████   99.77 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-
-🐱‍💻 Projects: 
-mobile                   3 hrs 22 mins       █████████████████████████   99.77 % 
-KnowledgeBase-Vue3       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-
-💻 Operating System: 
-Windows                  3 hrs 23 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
