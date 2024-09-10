@@ -44,13 +44,13 @@
 <details>
 <summary>
   <b>Last activity:</b>&nbsp;
-  <code>Tuesday, September 10th 2024, 6:12:48 am</code>
+  <code>Tuesday, September 10th 2024, 6:14:51 pm</code>
 </summary>
 <br>
 <pre lang="text" class="notranslate"><code>⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 5 commits to zryyyy/epicgames-freebies-claimer
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
+⬆️ Pushed 5 commits to zryyyy/epicgames-freebies-claimer
 ⬆️ Pushed 1 commit to zryyyy/zryyyy</code></pre>
 </details>
 
@@ -60,69 +60,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-🌆 Daytime                329 commits         ███████████░░░░░░░░░░░░░░   42.89 % 
-🌃 Evening                275 commits         █████████░░░░░░░░░░░░░░░░   35.85 % 
-🌙 Night                  59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   125 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Tuesday                  134 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Wednesday                108 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Thursday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Friday                   116 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Saturday                 104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Sunday                   51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-YAML                     7 mins              ███████████░░░░░░░░░░░░░░   44.59 % 
-JavaScript               4 mins              ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-Markdown                 3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Vue.js                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-
-🔥 Editors: 
-VS Code                  14 mins             █████████████████████░░░░   84.66 % 
-WebStorm                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-
-🐱‍💻 Projects: 
-zryyyy                   7 mins              ███████████░░░░░░░░░░░░░░   45.27 % 
-recent-activity          4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-profile-readme           2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-video-website            2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-
-💻 Operating System: 
-Windows                  9 mins              ██████████████░░░░░░░░░░░   54.73 % 
-Linux                    7 mins              ███████████░░░░░░░░░░░░░░   45.27 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
