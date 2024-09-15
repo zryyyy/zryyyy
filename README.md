@@ -44,14 +44,14 @@
 <details>
 <summary>
   <b>Last activity:</b>&nbsp;
-  <code>Sunday, September 15th 2024, 6:13:36 am</code>
+  <code>Sunday, September 15th 2024, 6:13:41 pm</code>
 </summary>
 <br>
-<pre lang="text" class="notranslate"><code>🍴 Forked zryyyy/hexo-theme-nexmoe from theme-nexmoe/hexo-theme-nexmoe
+<pre lang="text" class="notranslate"><code>⬆️ Pushed 1 commit to zryyyy/zryyyy
+🍴 Forked zryyyy/hexo-theme-nexmoe from theme-nexmoe/hexo-theme-nexmoe
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 1 commit to zryyyy/zryyyy
-❗️ Opened issue #4470 in hiddify/Hiddify-Manager</code></pre>
+⬆️ Pushed 1 commit to zryyyy/zryyyy</code></pre>
 </details>
 
 <details>
@@ -60,68 +60,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-🌆 Daytime                329 commits         ███████████░░░░░░░░░░░░░░   42.89 % 
-🌃 Evening                275 commits         █████████░░░░░░░░░░░░░░░░   35.85 % 
-🌙 Night                  59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   125 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Tuesday                  134 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Wednesday                108 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Thursday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Friday                   116 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Saturday                 104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Sunday                   51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               11 mins             ████████░░░░░░░░░░░░░░░░░   33.92 % 
-YAML                     9 mins              ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-JavaScript               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-
-🔥 Editors: 
-VS Code                  28 mins             █████████████████████░░░░   84.61 % 
-WebStorm                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-
-🐱‍💻 Projects: 
-profile-readme           14 mins             ███████████░░░░░░░░░░░░░░   42.93 % 
-zryyyy                   7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-recent-activity          4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-phoneInfoSearch          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-video-website            2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-
-💻 Operating System: 
-Windows                  26 mins             ███████████████████░░░░░░   77.37 % 
-Linux                    7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
