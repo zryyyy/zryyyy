@@ -44,7 +44,7 @@
 <details>
 <summary>
   <b>Last activity:</b>&nbsp;
-  <code>Thursday, September 19th 2024, 6:15:14 pm</code>
+  <code>Friday, September 20th 2024, 6:13:14 am</code>
 </summary>
 <br>
 <pre lang="text" class="notranslate"><code>⬆️ Pushed 1 commit to zryyyy/zryyyy
@@ -60,67 +60,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-🌆 Daytime                331 commits         ███████████░░░░░░░░░░░░░░   43.04 % 
-🌃 Evening                275 commits         █████████░░░░░░░░░░░░░░░░   35.76 % 
-🌙 Night                  59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   125 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Tuesday                  134 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Wednesday                108 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Thursday                 131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Friday                   116 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Saturday                 104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Sunday                   51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-YAML                     48 mins             ████████████░░░░░░░░░░░░░   49.31 % 
-JSON                     27 mins             ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-TypeScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-PowerShell               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-
-🔥 Editors: 
-VS Code                  1 hr 37 mins        █████████████████████████   99.97 % 
-WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-🐱‍💻 Projects: 
-blog                     1 hr 7 mins         █████████████████░░░░░░░░   68.92 % 
-nexmoe                   17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-profile-readme           11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-hexo                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-phoneInfoSearch          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-💻 Operating System: 
-Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
