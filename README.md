@@ -44,14 +44,14 @@
 <details>
 <summary>
   <b>Last activity:</b>&nbsp;
-  <code>Thursday, September 26th 2024, 6:13:26 am</code>
+  <code>Thursday, September 26th 2024, 6:16:02 pm</code>
 </summary>
 <br>
-<pre lang="text" class="notranslate"><code>⬆️ Pushed 1 commit to zryyyy/zryyyy
+<pre lang="text" class="notranslate"><code>⬆️ Pushed 1 commit to zryyyy/Nerd-Font-Patcher
 ⬆️ Pushed 1 commit to zryyyy/Nerd-Font-Patcher
-⬆️ Pushed 1 commit to zryyyy/Nerd-Font-Patcher
-⬆️ Pushed 1 commit to zryyyy/Nerd-Font-Patcher
-⬆️ Pushed 1 commit to zryyyy/Nerd-Font-Patcher</code></pre>
+🗣 Commented on #148 in lxgw/LxgwWenKai
+❗️ Opened issue #148 in lxgw/LxgwWenKai
+⬆️ Pushed 1 commit to zryyyy/zryyyy</code></pre>
 </details>
 
 <details>
@@ -60,67 +60,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                96 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-🌆 Daytime                284 commits         ██████████░░░░░░░░░░░░░░░   41.58 % 
-🌃 Evening                246 commits         █████████░░░░░░░░░░░░░░░░   36.02 % 
-🌙 Night                  57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Tuesday                  113 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Wednesday                103 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Thursday                 112 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Friday                   96 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Saturday                 90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Sunday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-YAML                     8 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.59 % 
-TOML                     4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Markdown                 2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Bash                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-JavaScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-
-🔥 Editors: 
-VS Code                  21 hrs 36 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-hexo                     7 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.70 % 
-dotfiles                 6 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.60 % 
-hexo-nexmoe              3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-resources                1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-volantis                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-
-💻 Operating System: 
-Windows                  21 hrs 3 mins       ████████████████████████░   97.48 % 
-Linux                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
