@@ -44,14 +44,14 @@
 <details>
 <summary>
   <b>Last activity:</b>&nbsp;
-  <code>Sunday, September 29th 2024, 6:12:53 am</code>
+  <code>Sunday, September 29th 2024, 6:13:56 pm</code>
 </summary>
 <br>
 <pre lang="text" class="notranslate"><code>⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
+⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 10 commits to zryyyy/github-readme-stats
-⬆️ Pushed 0 commit to zryyyy/hexo-theme-volantis
-⬆️ Pushed 1 commit to zryyyy/zryyyy</code></pre>
+⬆️ Pushed 0 commit to zryyyy/hexo-theme-volantis</code></pre>
 </details>
 
 <details>
@@ -60,67 +60,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-🌆 Daytime                298 commits         ███████████░░░░░░░░░░░░░░   42.63 % 
-🌃 Evening                252 commits         █████████░░░░░░░░░░░░░░░░   36.05 % 
-🌙 Night                  57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Wednesday                92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Thursday                 118 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Friday                   97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Saturday                 90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Sunday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-YAML                     5 hrs 11 mins       ███████████░░░░░░░░░░░░░░   45.13 % 
-TOML                     3 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-Markdown                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-EJS                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Lua                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-
-🔥 Editors: 
-VS Code                  11 hrs 29 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-hexo                     6 hrs 21 mins       ██████████████░░░░░░░░░░░   55.29 % 
-dotfiles                 3 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.36 % 
-volantis                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-hexo-volantis            19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-CDN                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-
-💻 Operating System: 
-Windows                  11 hrs 10 mins      ████████████████████████░   97.21 % 
-Linux                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
