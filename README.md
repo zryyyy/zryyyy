@@ -44,14 +44,14 @@
 <details>
 <summary>
   <b>Last activity:</b>&nbsp;
-  <code>Monday, September 30th 2024, 6:12:36 am</code>
+  <code>Monday, September 30th 2024, 6:16:55 pm</code>
 </summary>
 <br>
 <pre lang="text" class="notranslate"><code>⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
 ⬆️ Pushed 1 commit to zryyyy/zryyyy
-⬆️ Pushed 10 commits to zryyyy/github-readme-stats</code></pre>
+⬆️ Pushed 1 commit to zryyyy/zryyyy</code></pre>
 </details>
 
 <details>
@@ -60,61 +60,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-🌆 Daytime                298 commits         ███████████░░░░░░░░░░░░░░   42.63 % 
-🌃 Evening                252 commits         █████████░░░░░░░░░░░░░░░░   36.05 % 
-🌙 Night                  57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Wednesday                92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Thursday                 118 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Friday                   97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Saturday                 90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Sunday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TOML                     2 hrs 24 mins       █████████████████████░░░░   83.49 % 
-Lua                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-dotfiles                 2 hrs 52 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 </details>
