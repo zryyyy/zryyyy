@@ -21,7 +21,58 @@
   <br>
 
 <!--START_SECTION:waka-->
-🚧ing...
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+🌆 Daytime                302 commits         ███████████░░░░░░░░░░░░░░   42.96 % 
+🌃 Evening                251 commits         █████████░░░░░░░░░░░░░░░░   35.70 % 
+🌙 Night                  57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Wednesday                92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Thursday                 115 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Friday                   101 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Saturday                 92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Sunday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+JSON                     0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+hexo                     0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    0 secs              █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
