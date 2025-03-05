@@ -21,7 +21,65 @@
   <br>
 
 <!--START_SECTION:waka-->
-🚧ing...
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+🌆 Daytime                363 commits         ███████████░░░░░░░░░░░░░░   44.21 % 
+🌃 Evening                282 commits         █████████░░░░░░░░░░░░░░░░   34.35 % 
+🌙 Night                  74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Tuesday                  160 commits         █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Wednesday                108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Thursday                 147 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Friday                   114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Saturday                 99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Sunday                   62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               8 hrs 15 mins       ████████████████████░░░░░   78.99 % 
+Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+CSS                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+
+🔥 Editors: 
+WebStorm                 8 hrs 48 mins       █████████████████████░░░░   84.28 % 
+VS Code                  1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+
+🐱‍💻 Projects: 
+Green-Wall               10 hrs 23 mins      █████████████████████████   99.44 % 
+file-fly-fe              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+
+💻 Operating System: 
+Mac                      8 hrs 48 mins       █████████████████████░░░░   84.28 % 
+Linux                    1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
