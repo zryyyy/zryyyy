@@ -21,7 +21,61 @@
   <br>
 
 <!--START_SECTION:waka-->
-🚧ing...
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+🌆 Daytime                379 commits         ███████████░░░░░░░░░░░░░░   44.12 % 
+🌃 Evening                294 commits         █████████░░░░░░░░░░░░░░░░   34.23 % 
+🌙 Night                  79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   135 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Tuesday                  165 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Thursday                 155 commits         █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Friday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Saturday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Sunday                   72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   13 mins             █████████████████████████   99.96 % 
+Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+EditorConfig             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+PyCharm                  13 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Code                     13 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  13 mins             █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
