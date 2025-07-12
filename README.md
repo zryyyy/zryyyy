@@ -21,7 +21,58 @@
   <br>
 
 <!--START_SECTION:waka-->
-🚧ing...
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+🌆 Daytime                379 commits         ███████████░░░░░░░░░░░░░░   44.12 % 
+🌃 Evening                294 commits         █████████░░░░░░░░░░░░░░░░   34.23 % 
+🌙 Night                  79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   135 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Tuesday                  165 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Thursday                 155 commits         █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Friday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Saturday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Sunday                   72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Go                       24 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+GoLand                   24 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+LearningGo               24 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  24 mins             █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
