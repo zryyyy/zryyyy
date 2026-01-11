@@ -21,7 +21,67 @@
   <br>
 
 <!--START_SECTION:waka-->
-🚧ing...
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+🌆 Daytime                389 commits         ███████████░░░░░░░░░░░░░░   44.05 % 
+🌃 Evening                302 commits         █████████░░░░░░░░░░░░░░░░   34.20 % 
+🌙 Night                  83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   138 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Tuesday                  167 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Wednesday                117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Thursday                 158 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Friday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Saturday                 103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Sunday                   81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   2 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.75 % 
+TOML                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Markdown                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+JavaScript               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Shell Script             25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+
+🔥 Editors: 
+PyCharm                  5 hrs 1 min         ██████████████████████░░░   89.25 % 
+WebStorm                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🐱‍💻 Projects: 
+RagAgent                 4 hrs 17 mins       ███████████████████░░░░░░   76.27 % 
+DataEngineering          43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+questionnaire            36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+LearningGo               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+💻 Operating System: 
+Windows                  5 hrs 37 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Vue                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
