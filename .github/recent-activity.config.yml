@@ -1,0 +1,30 @@
+settings:
+  username: "zryyyy" # Replace with your username or comment out this line
+  commit_msg: "⚡ Update README with the recent activity"
+  max_lines: 10
+  readme_file: "./README.md"
+  # disabled_events:
+  #   - "comments"
+  # url_text: "`{REPO}{ID}`"
+  url_text: "`{REPO}`"
+  date:
+    timezone: "GMT+08:00"
+    text: "Last Updated: `{DATE}`"
+    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+  commit_name: "github-actions[bot]"
+  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+messages:
+  comments: "💬 Commented on {ID} in {URL}"
+  issue_opened: "❗️ Opened issue {ID} in {URL}"
+  issue_closed: "✔️ Closed issue {ID} in {URL}"
+  pr_opened: "💪 Opened PR {ID} in {URL}"
+  pr_closed: "❌ Closed PR {ID} in {URL}"
+  pr_merged: "🎉 Merged PR {ID} in {URL}"
+  create_repo: "📔 Created new repository {URL}"
+  fork_repo: "🔱 Forked {FORK} from {URL}"
+  wiki_create: "📖 Created new wiki page {WIKI} in {URL}"
+  added_member: "🤝 Became collaborator on {URL}"
+  changes_approved: "👍 Approved {ID} in {URL}"
+  changes_requested: "🔴 Requested changes in {ID} in {URL}"
+  new_release: "✌️ Released {ID} in {URL}"
+  new_star: "⭐ Starred {URL}"
