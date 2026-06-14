@@ -21,7 +21,60 @@
   <br>
 
 <!--START_SECTION:waka-->
-🚧ing...
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                359 commits         ██████████░░░░░░░░░░░░░░░   40.07 % 
+🌆 Daytime                328 commits         █████████░░░░░░░░░░░░░░░░   36.61 % 
+🌃 Evening                26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+🌙 Night                  183 commits         █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Tuesday                  192 commits         █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Wednesday                130 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Thursday                 136 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Friday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Sunday                   70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+shell script             6 mins              ████████████████░░░░░░░░░   62.78 % 
+TOML                     3 mins              █████████░░░░░░░░░░░░░░░░   37.22 % 
+
+🔥 Editors: 
+Zed                      10 mins             ██████████████████████░░░   88.18 % 
+GoLand                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+
+🐱‍💻 Projects: 
+dotfiles                 10 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      10 mins             █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Zig                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
