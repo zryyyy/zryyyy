@@ -21,7 +21,70 @@
   <br>
 
 <!--START_SECTION:waka-->
-🚧ing...
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2014%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                358 commits         ██████████░░░░░░░░░░░░░░░   39.34 % 
+🌆 Daytime                335 commits         █████████░░░░░░░░░░░░░░░░   36.81 % 
+🌃 Evening                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+🌙 Night                  190 commits         █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   143 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Tuesday                  196 commits         █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Wednesday                133 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Thursday                 135 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Friday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Saturday                 110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Sunday                   70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+Astro                    0 secs              ███████████░░░░░░░░░░░░░░   43.23 % 
+TypeScript               0 secs              █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+CSS                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+GitIgnore file           0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+
+🔥 Editors: 
+WebStorm                 0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+lighthouse-runner        0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  0 secs              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Zig                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
