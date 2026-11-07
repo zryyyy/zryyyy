@@ -21,7 +21,66 @@
   <br>
 
 <!--START_SECTION:waka-->
-🚧ing...
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2014%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                362 commits         ██████████░░░░░░░░░░░░░░░   38.55 % 
+🌆 Daytime                342 commits         █████████░░░░░░░░░░░░░░░░   36.42 % 
+🌃 Evening                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+🌙 Night                  208 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   149 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Tuesday                  202 commits         █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Wednesday                133 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Thursday                 135 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Friday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Saturday                 110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Sunday                   87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Zig                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 </details>
